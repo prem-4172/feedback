@@ -1,0 +1,16 @@
+/* Write your CSS code here. */
+.emoji {
+  height: 60px;
+  width: 60px;
+  margin-left: 25px;
+}
+.para {
+  font-size: 20px;
+  color: black;
+  font-family: roboto;
+  margin-left: 35px;
+}
+.button-1 {
+  background-color: transparent;
+  border: transparent;
+}
